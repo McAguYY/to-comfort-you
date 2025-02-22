@@ -1,0 +1,13 @@
+@import url('dristan_story.zip');
+
+body {
+  padding: 0 20px;
+  font-size: 1.85em;
+  background: #edeff0;
+  font-weight:200;
+font-family: 'Great Vibes', cursive;
+}
+
+#user {
+    margin-top: -20px;
+}
